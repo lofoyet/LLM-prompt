@@ -2,6 +2,7 @@
 
 ### 0. Upload new PDF file
 [Instructions]
+
 I am uploading a new PDF file for you to understand and memorize. Please forget any previous PDF. But do remember the previous instructions that I sent already.
 
 ### 1. Understand equity investment advice and strategy

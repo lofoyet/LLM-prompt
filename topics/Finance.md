@@ -22,7 +22,7 @@ Unless otherwise instructed, you should always keep the currently-uploaded PDF i
 
 [To-do]
 
-1. List all single stock name / etf / sector / country equity recommendations. Briefly mention the rationale.
+1.. List all single stock name / etf / sector / country equity recommendations. Briefly mention the rationale.
 2. Summarize the equity investment outlook and sentiment.
 3. What are the levels to watch for major indices?
 4. The risk for equity investment.

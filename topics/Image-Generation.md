@@ -1,9 +1,11 @@
 ## Asking an agent to enrich a draft prompt
 
 take the below prompt and make the prompt be able to consistently genreate image of the same detail, size, style every time it's used. your job is the update the promt, not to generate image
+
 ---
 
 ---
+
 your job is to update the promt, not to generate image
 
 ## Bliss Daily Menu

@@ -4,7 +4,39 @@ take the below prompt and make the prompt be able to consistently genreate image
 
 `---`
 
-\{draft goes here\}
+[MAIN SUBJECT]:
+A detailed depiction of [subject], including key features such as [appearance, clothing, materials, colors, expression].
+
+[STYLE / MEDIUM]:
+In the style of [art style, e.g., photorealistic, anime, oil painting, cinematic, 3D render, pixel art].
+
+[COMPOSITION / FRAMING]:
+[Camera angle, shot type, framing — e.g., close-up portrait, wide-angle shot, centered composition, dynamic perspective].
+
+[ENVIRONMENT / BACKGROUND]:
+Set in [location/scene], featuring [background details, weather, time of day, atmosphere].
+
+[LIGHTING]:
+Lighting is [type — e.g., soft natural light, dramatic shadows, neon glow, golden hour, studio lighting].
+
+[COLOR PALETTE]:
+Dominant colors include [colors], creating a [mood — e.g., warm, moody, vibrant, desaturated] tone.
+
+[MOOD / EMOTION]:
+The overall feeling is [emotion or vibe — e.g., peaceful, tense, futuristic, nostalgic].
+
+[DETAIL LEVEL]:
+Highly detailed with [textures, small elements, realism level, sharpness].
+
+[EXTRA ELEMENTS]:
+Include [props, secondary subjects, motion, effects like fog, particles, reflections].
+
+[ASPECT RATIO / FORMAT]:
+--ar [e.g., 1:1, 16:9, 9:16]
+
+[QUALITY TAGS]:
+Ultra high resolution, 8k, sharp focus, professional, masterpiece
+
 
 `---`
 

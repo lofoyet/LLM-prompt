@@ -1,8 +1,14 @@
 ## Asking an agent to enrich a draft prompt
 
-take the below prompt and make the prompt be able to consistently genreate image of the same detail, size, style every time it's used. your job is the update the promt, not to generate image
+read the below prompt and template. Your job is to absorb the prompt and fill in the sections of the template. Your output is the filled template give the contents in prompt.
 
-`---`
+`---prompt starts---`
+
+\{prompts\}
+
+`---prompt ends---`
+
+`---template starts---`
 
 [MAIN SUBJECT]:
 A detailed depiction of [subject], including key features such as [appearance, clothing, materials, colors, expression].
@@ -38,9 +44,9 @@ Include [props, secondary subjects, motion, effects like fog, particles, reflect
 Ultra high resolution, 8k, sharp focus, professional, masterpiece
 
 
-`---`
+`---template ends---`
 
-your job is to update the promt, not to generate image
+your job is to update the template, not to generate image
 
 ## Bliss Daily Menu
 

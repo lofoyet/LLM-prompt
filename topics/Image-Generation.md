@@ -50,6 +50,20 @@ your job is to update the template, not to generate image
 
 ## Bliss Daily Menu
 
+Please format the following OCR extracted text into the template
+
+`---OCR extract starts---`
+
+`---OCR extract ends  ---`
+
+`---template starts---`
+
+[Typography & Content] Text centered on the menu card. High readability, perfectly aligned grid layout, generous line spacing. Top center features a small baby blue heart icon. Below the heart, elegant script font reading exactly: "Bliss Daily Specials" Below that, clean modern sans-serif font reading exactly: "{{Date}}" Below that, separated by spacing, reading exactly: "— Main —" Below that: "• {{item1}}" Below that, separated by spacing, reading exactly: "— Dessert —" Below that: "• {{item2}}"
+
+`---template ends  ---`
+
+### Post Prompt
+
 [System/Style]
 Minimalist premium food photography, true 90-degree overhead flat lay composition, ultra-clean geometric layout, perfectly symmetrical visual hierarchy. Shot on 100mm macro lens, photorealistic, 8k resolution. Atmosphere: Calm, healing, airy, "Bliss" premium lifestyle brand.
 

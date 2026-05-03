@@ -58,7 +58,37 @@ Please format the following OCR extracted text into the template
 
 `---template starts---`
 
-[Typography & Content] Text centered on the menu card. High readability, perfectly aligned grid layout, generous line spacing. Top center features a small baby blue heart icon. Below the heart, elegant script font reading exactly: "Bliss Daily Specials" Below that, clean modern sans-serif font reading exactly: "{{Date}}" Below that, separated by spacing, reading exactly: "— Main —" Below that: "• {{item1}}" Below that, separated by spacing, reading exactly: "— Dessert —" Below that: "• {{item2}}"
+[Typography & Content]
+Text centered on the menu card. High readability, perfectly aligned grid layout, generous line spacing.
+Top center features a small baby blue heart icon.
+
+Below the heart, elegant script font reading exactly: "Bliss Daily Specials"
+
+Below that, clean modern sans-serif font reading exactly: "{{Date}}"
+
+(Optional Section Main)Below that, separated by spacing, reading exactly: "— Main —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
+
+(Optional Section Healthy Main)Below that, separated by spacing, reading exactly: "— Healthy Main —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
+
+(Optional Section Snacks)Below that, separated by spacing, reading exactly: "— Snacks —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
+
+(Optional Section Dessert)Below that, separated by spacing, reading exactly: "— Dessert —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
 
 `---template ends  ---`
 
@@ -85,13 +115,25 @@ Below the heart, elegant script font reading exactly: "Bliss Daily Specials"
 
 Below that, clean modern sans-serif font reading exactly: "{{Date}}"
 
-\[Optional\]Below that, separated by spacing, reading exactly: "— Main —"
+(Optional Section Main)Below that, separated by spacing, reading exactly: "— Main —"
 
 Below that: "• {{item1}}"
 
 Below that: "• {{item2}}"
 
-Below that, separated by spacing, reading exactly: "— Dessert —"
+(Optional Section Healthy Main)Below that, separated by spacing, reading exactly: "— Healthy Main —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
+
+(Optional Section Snacks)Below that, separated by spacing, reading exactly: "— Snacks —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
+
+(Optional Section Dessert)Below that, separated by spacing, reading exactly: "— Dessert —"
 
 Below that: "• {{item1}}"
 

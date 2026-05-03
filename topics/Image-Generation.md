@@ -80,12 +80,23 @@ Exactly one high-end dish cropped partially into the frame from the bottom-right
 [Typography & Content]
 Text centered on the menu card. High readability, perfectly aligned grid layout, generous line spacing.
 Top center features a small baby blue heart icon.
+
 Below the heart, elegant script font reading exactly: "Bliss Daily Specials"
+
 Below that, clean modern sans-serif font reading exactly: "{{Date}}"
-Below that, separated by spacing, reading exactly: "— Main —"
+
+\[Optional\]Below that, separated by spacing, reading exactly: "— Main —"
+
 Below that: "• {{item1}}"
-Below that, separated by spacing, reading exactly: "— Dessert —"
+
 Below that: "• {{item2}}"
+
+Below that, separated by spacing, reading exactly: "— Dessert —"
+
+Below that: "• {{item1}}"
+
+Below that: "• {{item2}}"
+
 
 [Negative Prompt]
 Dark tones, red/yellow dominant colors, messy layout, multiple dishes, silverware, cups, clutter, blurry text, distorted typography, low resolution, human hands, harsh black shadows, depth of field blur, wood textures.
